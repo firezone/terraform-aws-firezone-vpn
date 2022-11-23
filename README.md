@@ -1,3 +1,5 @@
+**Disclaimer**: This is a community-provided module and is currently unsupported by the Firezone team.
+
 # terraform-aws-firezone-vpn
 Terraform module for easy Firezone VPN deployment
 
